@@ -1,6 +1,6 @@
-# Todo app
+# To-do app
 
-Todo app using flutter, BloC and Sqflite for storing data. 
+To-do app using flutter, BloC and Sqflite for storing data. 
 
 # Screenshots
 
